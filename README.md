@@ -9,6 +9,10 @@
 
 - 📫 How to reach me **laurenruiz97@gmail.com**
 
+- 📄 Know about my experiences [https://www.linkedin.com/in/laurensruiz/](https://www.linkedin.com/in/laurensruiz/)
+
+- ⚡ Fun fact **I love solving riddles and can always think outside the box**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/laurensruiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laurensruiz" height="30" width="40" /></a>
