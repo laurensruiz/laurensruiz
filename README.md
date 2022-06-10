@@ -5,6 +5,10 @@
 
 - 🌱 I’m currently learning **Javascript, React.js, Redux.js, REST API's, Debugging**
 
+- 💬 Ask me about **HTML, CSS, Javascript**
+
+- 📫 How to reach me **laurenruiz97@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/laurensruiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laurensruiz" height="30" width="40" /></a>
